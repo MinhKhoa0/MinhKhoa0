@@ -2,13 +2,6 @@
 
 ### 🌐 Một sinh viên CNTT đam mê phát triển phần mềm, luôn tìm kiếm cơ hội để học hỏi và đóng góp vào những sản phẩm thực tế.
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=470&lines=Hi%2C+t%E1%BB%9B+l%C3%A0+Minh+Khoa;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
-  </a>
-</div>
-
-
 ---
 
 ## 🛠️ Tech Stacks that I am currently capable of 🛠️
