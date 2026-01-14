@@ -1,48 +1,71 @@
-# Chào cậu, tớ là Minh Khoa 👋
+# <p align="center">Hi there, I'm Minh Khoa 👋</p>
 
-### 🌐 Một sinh viên CNTT đam mê phát triển phần mềm, luôn tìm kiếm cơ hội để học hỏi và đóng góp vào những sản phẩm thực tế.
-
----
-
-## 🛠️ Tech Stacks that I am currently capable of 🛠️
-
-### Frontend
-[![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-### Backend & Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
-
-### Database
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-
----
-
-## 🔧 Libraries n Tools I use 🔧
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,tailwind,sass,npm,postman,git,github,vscode,visualstudio,py,cs,react,vite" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;C%23+%26+Python+Enthusiast;Aspiring+Business+Analyst;Creative+Thinker" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <a href="mailto:khoaminh010704@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+### 👨‍💻 About Me
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoa0&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" />
-</div>
-
-### 🎮 Contribution Activity
-![pacman contribution graph](https://raw.githubusercontent.com/MinhKhoa0/MinhKhoa0/output/pacman-contribution-graph.svg)
+- 🌿 Tớ là một người trẻ đam mê công nghệ và vẻ đẹp của sự tối giản.
+- 🎓 Hiện đang là sinh viên ngành CNTT, tập trung vào phát triển **Frontend** và tư duy **Business Analyst**.
+- 🚀 Luôn tìm kiếm sự giao thoa giữa logic của dòng code và nhu cầu thực tế của người dùng.
 
 ---
 
-> "Cuộc đời như một bức tranh do ta vẽ nên..." 🎨
+### 💻 Tech Stack
 
+<table align="center">
+  <tr>
+    <td align="center" width="250"><b>Languages</b></td>
+    <td align="center" width="250"><b>Frontend</b></td>
+    <td align="center" width="250"><b>Tools & Others</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <br>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <br>
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <br>
+      <img src="https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=SASS&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <br>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <br>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MinhKhoa0&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoa0&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MinhKhoa0/MinhKhoa0/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Cảm ơn cậu đã ghé thăm "bức tranh" của tớ! ✨</i>
+</p>
