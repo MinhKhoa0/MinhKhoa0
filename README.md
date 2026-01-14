@@ -51,10 +51,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MinhKhoa0/MinhKhoa0/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%" />
-</p>
-
 ---
 
 <p align="center">
