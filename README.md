@@ -61,6 +61,3 @@
   <a href="https://www.linkedin.com/in/minh-khoa-nguyen-pham" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <i>Cảm ơn cậu đã ghé thăm "bức tranh" của tớ! ✨</i>
-</p>
